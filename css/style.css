@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-
 body {
     background-color: rgb(243, 240, 240);
     font-family: 'Roboto', sans-serif;
@@ -42,7 +41,6 @@ header {
     margin-bottom: 10px;
     border: none;
     color: white;
-
 }
 
 .button-1 {
@@ -83,10 +81,6 @@ hr{
     margin-bottom: 40px;
 }
 
-p {
-    margin-bottom: 10px;
-}
-
 .circle {
     display: inline-block;
     height: 20px;
@@ -103,10 +97,6 @@ p {
 
 }
 
-span {
-   
- 
-}
 .circle-cross {
     color: red;
     border-color: red;
