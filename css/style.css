@@ -15,12 +15,48 @@ body {
     vertical-align: middle;   
 }
 
-h1{
+h1 {
     display: inline-block;
     vertical-align: middle;
 }
 
-header{
+header {
     background-color: white;
     padding: 10px 20px;
+    margin-bottom: 40px;
 }
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+.button-1 {
+    border: none;
+    background-color:  #45ABEA;
+    color: white;
+    padding: 7px 7px;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.circle {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.circle-check{
+    color: green;
+    border-color: green;
+
+}
+.circle-cross {
+    color: red;
+    border-color: red;
+}
+    
