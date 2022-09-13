@@ -57,6 +57,11 @@ header {
 
 hr{
     color: gray;
+    margin-bottom: 40px;
+}
+
+p {
+    margin-bottom: 10px;
 }
 
 .circle {
@@ -73,6 +78,10 @@ hr{
     color: green;
     border-color: green;
 
+}
+
+span {
+    margin-bottom: 40px;
 }
 .circle-cross {
     color: red;
