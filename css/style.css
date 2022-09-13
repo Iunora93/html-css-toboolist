@@ -40,6 +40,8 @@ header {
     padding: 7px 7px;
     border-radius: 7px 7px 7px 7px;
     margin-bottom: 10px;
+    border: none;
+    color: white;
 
 }
 
@@ -53,6 +55,26 @@ header {
     background-color: white;
     color: gray;
     border-color: gray;
+}
+
+.button-3 {
+    background-color: #9C72E4;
+}
+
+.button-4 {
+    background-color: #64C0A9;
+}
+
+.button-5{
+    background-color: #F29E33;
+}
+
+.button-6 {
+    background-color: #D863A1;
+}
+
+.button-7 {
+    background-color: #B0C926;
 }
 
 hr{
