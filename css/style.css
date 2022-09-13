@@ -55,6 +55,7 @@ header {
     background-color: white;
     color: gray;
     border-color: gray;
+    border: solid gray 1px;
 }
 
 .button-3 {
